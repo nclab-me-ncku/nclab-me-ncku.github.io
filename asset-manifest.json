@@ -1,37 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.bfa2d17b.chunk.css",
-    "main.js": "/static/js/main.388cd4b5.chunk.js",
-    "main.js.map": "/static/js/main.388cd4b5.chunk.js.map",
+    "main.js": "/static/js/main.c786f15c.chunk.js",
+    "main.js.map": "/static/js/main.c786f15c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a0e268a7.js",
     "runtime-main.js.map": "/static/js/runtime-main.a0e268a7.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.8813c194.chunk.js": "/static/js/2.8813c194.chunk.js",
-    "static/js/2.8813c194.chunk.js.map": "/static/js/2.8813c194.chunk.js.map",
+    "static/js/2.863274bd.chunk.js": "/static/js/2.863274bd.chunk.js",
+    "static/js/2.863274bd.chunk.js.map": "/static/js/2.863274bd.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
     "static/css/main.bfa2d17b.chunk.css.map": "/static/css/main.bfa2d17b.chunk.css.map",
-    "static/js/2.8813c194.chunk.js.LICENSE.txt": "/static/js/2.8813c194.chunk.js.LICENSE.txt",
-    "static/media/Nguyen Thi Kim Uyen.11b5bfc9.webp": "/static/media/Nguyen Thi Kim Uyen.11b5bfc9.webp",
+    "static/js/2.863274bd.chunk.js.LICENSE.txt": "/static/js/2.863274bd.chunk.js.LICENSE.txt",
     "static/media/bmi.e7e470f6.webp": "/static/media/bmi.e7e470f6.webp",
     "static/media/logo.eeedbc1a.png": "/static/media/logo.eeedbc1a.png",
-    "static/media/nn.4b0b869b.webp": "/static/media/nn.4b0b869b.webp",
-    "static/media/伍錫志.2d4a9038.webp": "/static/media/伍錫志.2d4a9038.webp",
-    "static/media/劉宇舜.9e7e33fe.webp": "/static/media/劉宇舜.9e7e33fe.webp",
-    "static/media/張少鈞.83badf68.webp": "/static/media/張少鈞.83badf68.webp",
-    "static/media/李聖偉.36482e94.webp": "/static/media/李聖偉.36482e94.webp",
-    "static/media/王錦虔.40d24769.webp": "/static/media/王錦虔.40d24769.webp",
-    "static/media/莊佩琪.9292a7db.webp": "/static/media/莊佩琪.9292a7db.webp",
-    "static/media/邱柏雄.80b3f6b8.webp": "/static/media/邱柏雄.80b3f6b8.webp",
-    "static/media/黃俊叡.b4e0c1e7.webp": "/static/media/黃俊叡.b4e0c1e7.webp",
-    "static/media/黃文助.e68e1464.webp": "/static/media/黃文助.e68e1464.webp",
-    "static/media/黃駿偉.131fdbe3.webp": "/static/media/黃駿偉.131fdbe3.webp"
+    "static/media/nn.4b0b869b.webp": "/static/media/nn.4b0b869b.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.a0e268a7.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.8813c194.chunk.js",
+    "static/js/2.863274bd.chunk.js",
     "static/css/main.bfa2d17b.chunk.css",
-    "static/js/main.388cd4b5.chunk.js"
+    "static/js/main.c786f15c.chunk.js"
   ]
 }
