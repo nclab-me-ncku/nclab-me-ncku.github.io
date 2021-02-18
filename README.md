@@ -13,6 +13,8 @@
 
 ### honor
 [前往honor表單(可編輯)](https://docs.google.com/spreadsheets/d/16UVWUseIFRuHtB96jT_swH2ijgBMZtqkoyTWJGZp0dE/edit?usp=sharing)
+若表單中圖片處留白，則會使用預設圖片\
+![image](/photo/honor.png)
 
 ### public
 [前往public表單(可編輯)](https://docs.google.com/spreadsheets/d/161k7txE3GuGziMCmBT3igM6CUd-dLPIRfYGaAkhrui8/edit?usp=sharing)
@@ -22,6 +24,8 @@
 
 ### photo
 [前往photo表單(可編輯)](https://docs.google.com/spreadsheets/d/1I6OHfvUz1gCIwpMtsyb6Jk-6iACsYXh8SgbRrihYEhI/edit?usp=sharing)
+若表單中圖片處留白，則會使用預設圖片\
+![image](/photo/nophoto.webp)
 
 ### research
 [前往research表單(可編輯)](https://docs.google.com/spreadsheets/d/1RrpmLdsHlSe7j1OsLUi0k_o8pPeiwZJmdw6ExLYPmzs/edit?usp=sharing)
