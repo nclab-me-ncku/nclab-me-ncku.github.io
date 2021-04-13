@@ -1,0 +1,17 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g id="svg_11">
+   <ellipse stroke="#000" ry="18.5" rx="18.5" id="svg_1" cy="269.5" cx="382" opacity="undefined" fill="#fff"/>
+   <ellipse stroke="#000" ry="18.5" rx="18.5" id="svg_2" cy="391.5" cx="288" opacity="undefined" fill="#fff"/>
+   <ellipse stroke="#000" ry="18.5" rx="18.5" id="svg_3" cy="530.5" cx="484" opacity="undefined" fill="#fff"/>
+   <ellipse stroke="#000" ry="18.5" rx="18.5" id="svg_4" cy="365.5" cx="512" opacity="undefined" fill="#fff"/>
+   <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="366" x2="494.5" y1="388" x1="305.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="none"/>
+   <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="514" x2="476.5" y1="288" x1="386.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" fill="none"/>
+   <ellipse stroke="#000" ry="18.5" rx="18.5" id="svg_8" cy="448.5" cx="380" opacity="undefined" fill="#fff"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="374" x2="421.5" y1="432" x1="389.5" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null" stroke-width="null" stroke="#000" fill="none"/>
+   <ellipse stroke="#000" ry="18.5" rx="18.5" id="svg_10" cy="377.5" cx="422" opacity="undefined" fill="#fff"/>
+  </g>
+ </g>
+</svg>
